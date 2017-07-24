@@ -1,0 +1,14 @@
+<group>
+	<line_distance>1200</line_distance>
+	<speed>0.11</speed>
+	<thickness>6.139</thickness>
+	<xPosOffset>0</xPosOffset>
+<group/>
+<color>0, 0, 0, 255</color>
+	<Lines>1</Lines>
+	<Squares>0</Squares>
+	<s1PosX>512</s1PosX>
+	<s1PosY>384</s1PosY>
+	<s1width>50</s1width>
+	<s1height>50</s1height>
+</group>
