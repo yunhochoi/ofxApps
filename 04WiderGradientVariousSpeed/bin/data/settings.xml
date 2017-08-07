@@ -1,0 +1,19 @@
+<group>
+	<color>0, 0, 0, 255</color>
+	<Lines>1</Lines>
+	<Rectangles>0</Rectangles>
+	<Particles>0</Particles>
+	<WiderRects>0</WiderRects>
+	<line_distance>470.5</line_distance>
+	<speed>0.1</speed>
+	<thickness>1</thickness>
+	<xPosOffset>0</xPosOffset>
+	<s1PosX>720</s1PosX>
+	<s1PosY>450</s1PosY>
+	<s1width>50</s1width>
+	<s1height>50</s1height>
+<group/>
+<Gradient>0</Gradient>
+<PatternLines>1</PatternLines>
+	<EasingLines>0</EasingLines>
+</group>
