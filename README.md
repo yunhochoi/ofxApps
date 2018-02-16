@@ -1,4 +1,4 @@
 # ofxApps
 openframeworks sketches
 
-[Project Page](http://yunospace.com/Dichroic-Henge-2017)
+- Related project: [Dichroic Henge](http://yunospace.com/Dichroic-Henge-2017)
